@@ -336,3 +336,4 @@ Data Storytelling
 ## ⭐ If you found this project useful
 
 Feel free to explore the dashboard, datasets and documentation to understand how AI growth can be analysed together with its infrastructure and resource requirements.
+# The-AI-Paradox-Analysis-PowerBI
