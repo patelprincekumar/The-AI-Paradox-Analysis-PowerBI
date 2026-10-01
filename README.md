@@ -64,8 +64,10 @@ The first dashboard focuses on the **AI race** between major ecosystems.
 - Claude / Anthropic
 - DeepSeek
 
-![The AI Revolution](Screenshots/ai-revolution-dashboard.png)
-
+![The AI Revolution](chatgpt.png)
+![The AI Revolution](gemini.png)
+![The AI Revolution](claude.png)
+![The AI Revolution](deepseek.png)
 ---
 
 ## 2️⃣ The Hidden Cost of AI
@@ -85,7 +87,7 @@ The second dashboard focuses on the **physical and sustainability dimensions of 
 - AI Sustainability Index
 - Global AI Infrastructure map
 
-![The Hidden Cost of AI](Screenshots/hidden-cost-dashboard.png)
+![The Hidden Cost of AI](Screenshots/hidden cost.png)
 
 ---
 
