@@ -60,13 +60,12 @@ The first dashboard focuses on the **AI race** between major ecosystems.
 ### Featured ecosystems
 
 - ChatGPT / OpenAI
-- Gemini / Google
-- Claude / Anthropic
-- DeepSeek
-
 ![The AI Revolution](Screenshots/chatgpt.png)
+- Gemini / Google
 ![The AI Revolution](Screenshots/gemini.png)
+- Claude / Anthropic
 ![The AI Revolution](Screenshots/claude.png)
+- DeepSeek
 ![The AI Revolution](Screenshots/deepseek.png)
 ---
 
