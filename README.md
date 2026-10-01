@@ -64,10 +64,10 @@ The first dashboard focuses on the **AI race** between major ecosystems.
 - Claude / Anthropic
 - DeepSeek
 
-![The AI Revolution](chatgpt.png)
-![The AI Revolution](gemini.png)
-![The AI Revolution](claude.png)
-![The AI Revolution](deepseek.png)
+![The AI Revolution](Screenshots/chatgpt.png)
+![The AI Revolution](Screenshots/gemini.png)
+![The AI Revolution](Screenshots/claude.png)
+![The AI Revolution](Screenshots/deepseek.png)
 ---
 
 ## 2️⃣ The Hidden Cost of AI
