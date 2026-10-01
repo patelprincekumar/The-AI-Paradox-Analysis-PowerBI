@@ -87,7 +87,7 @@ The second dashboard focuses on the **physical and sustainability dimensions of 
 - AI Sustainability Index
 - Global AI Infrastructure map
 
-![The Hidden Cost of AI](Screenshots/hidden-cost.png)
+![The Hidden Cost of AI](Screenshots/hidden_cost.png)
 
 ---
 
